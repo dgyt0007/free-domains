@@ -1,0 +1,13 @@
+addSubDomain({
+  description: "College project",
+  domain: "1bt.uk",
+  subdomain: ""sgyt",
+  owner: {
+    repo: "https://github.com/dgyt0007/free-web",
+    email: "gamershaily@yandex.com",
+  },
+  record: {
+    CNAME: 'dgyt0007.github.io',
+  },
+  proxy: false,
+})
